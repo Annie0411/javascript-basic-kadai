@@ -1,4 +1,4 @@
-const double = (num) => {
-  return num * 2;
+const squaredNumber = (num) => {
+  return num ** 2;
 }
-console.log(double(50));
+console.log(squaredNumber(10));
